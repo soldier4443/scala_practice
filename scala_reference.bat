@@ -1,0 +1,1 @@
+start https://docs.scala-lang.org/api/all.html
